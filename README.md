@@ -50,9 +50,9 @@ This project teaches:
 libft/
 ├── Makefile
 ├── includes/
-    └── libft.h
+├   └── libft.h
 ├── srcs/
-    └── ft_*.c
+├   └── ft_*.c
 └── bonus/
     └── ft_lst*.c
 ```
