@@ -61,7 +61,7 @@ libft/
 |------|--------------|
 | `libft.h` | Header file with all function prototypes and includes. |
 | `Makefile` | Handles compilation and library creation (`make`, `make clean`, etc.). |
-| `ft_*.c` | Implementation of all the mandatory functions. |
+| `srcs/` | Implementation of all the mandatory functions. |
 | `bonus/` | Contains linked list utility functions. |
 
 ---
@@ -150,7 +150,6 @@ make
 
 ## 📚 Resources
 
-- [42 Subject PDF (Libft)](https://projects.intra.42.fr)
 - [C Manual – cplusplus.com](https://cplusplus.com/reference/clibrary/)
 - [The C Programming Language (K&R Book)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 
